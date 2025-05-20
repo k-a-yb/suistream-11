@@ -1,30 +1,19 @@
-# stream
-
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/as-a-res-projects/v0-stream)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/xj2SQTTEJm2)
+# sui-stream
 
 ## Overview
+This is a movie/tv shows streaming site built on the Sui network 
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+## Test
+Clone this repository and run npm install 
+Use npm run dev to start the site locally
+Connect with a sui wallet address then begin 
 
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/as-a-res-projects/v0-stream](https://vercel.com/as-a-res-projects/v0-stream)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/xj2SQTTEJm2](https://v0.dev/chat/projects/xj2SQTTEJm2)**
+## Collaboration
+Create a branch and make the desired changes and make a pull request
 
 ## How It Works
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+1. Users can stream and watch movies and tv shows with ease
+2. Manage your collections
+3. All transactions being done on the Sui network 
+4. Access the site on all devices able to connect to the internet 

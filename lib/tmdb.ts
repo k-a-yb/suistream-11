@@ -1,7 +1,7 @@
 import type { ContentItem, TMDBResponse, ContentCredits } from "@/types/tmdb"
 
 // TMDB API key and base URL
-const API_KEY = "e8600999e10a7ace8d8f0c0fcdeadaae"
+const API_KEY = ""
 const BASE_URL = "https://api.themoviedb.org/3"
 
 // Define the Video type
